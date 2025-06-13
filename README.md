@@ -224,3 +224,11 @@ STREAMLIT_LOGGER_LEVEL=debug
 ## 📧 Support
 
 For issues and questions, please create an issue in the repository or contact the development team.
+
+## Development team `GitHub Accounts`
+
+- Sara Gamil: [@saragamilmohamed ](https://github.com/saragamilmohamed)
+- Ali Salama: [@3lis0](https://github.com/3lis0)
+- Mohamed Elsharkawy: [@mohamedelsharkawy-coder](https://github.com/mohamedelsharkawy-coder)
+- Adham Assy: [@adham3assy](https://github.com/adham3assy)
+
