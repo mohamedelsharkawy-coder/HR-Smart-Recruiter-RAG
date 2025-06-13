@@ -2,6 +2,11 @@
 
 A modular, well-structured Retrieval-Augmented Generation (RAG) system for analyzing candidate CVs using LLM-powered retrieval and querying.
 
+--------------------------
+ Try it out live here : https://hr-smart-recruiter-rag.streamlit.app/
+--------------------------
+
+
 ## 🏗️ Architecture
 
 The application has been refactored into a clean, modular architecture:
