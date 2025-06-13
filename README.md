@@ -45,7 +45,7 @@ hr_smart_recruiter/
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/mohamedelsharkawy-coder/HR-Smart-Recruiter-RAG.git
 cd hr_smart_recruiter
 ```
 
