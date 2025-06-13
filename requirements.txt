@@ -1,0 +1,40 @@
+# Core Streamlit and web framework
+streamlit==1.39.0
+
+# Environment management
+python-dotenv==1.0.1
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.2
+
+# LangChain core and community packages
+langchain==0.3.7
+langchain-core==0.3.15
+langchain-community==0.3.7
+langchain-google-genai==2.0.5
+
+# Vector store and embeddings
+faiss-cpu==1.8.0
+sentence-transformers==3.2.1
+
+# Google AI integration
+google-generativeai==0.8.3
+
+# Text processing and utilities
+tiktoken==0.8.0
+numpy==1.24.4
+pandas==2.0.3
+
+# HTTP and async support
+aiohttp==3.10.11
+requests==2.32.3
+
+# Additional dependencies for stability
+typing-extensions==4.12.2
+pydantic==2.9.2
+tenacity==9.0.0
+
+# Optional: For better performance and stability
+protobuf==4.25.5
+urllib3==2.2.3
