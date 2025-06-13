@@ -10,7 +10,7 @@ python-docx==1.1.2
 
 # LangChain core and community packages
 langchain==0.3.7
-langchain-core==0.3.15
+langchain-core==0.3.17
 langchain-community==0.3.7
 langchain-google-genai==2.0.5
 
